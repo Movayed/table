@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.the{
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    color: rgba(15, 16, 16, 0.662);
+
+}
+.tr1{
+    color: blue;
+    border-collapse: separate;
+    padding: 2%;
+    
+}
+
+.bckimg{
+    background-image:url(pen.png);
+    background-color: rgba(204, 208, 251);
+    box-shadow: 12px;-webkit-box-shadow: -2px 4px 28px -14px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 28px -14px rgba(0,0,0,0.75);
+box-shadow: -2px 4px 28px -14px rgba(0,0,0,0.75);
+}
+.bckimg1{
+
+background-image:url(Screenshot\ 2024-03-12\ at\ 23-51-26\ red\ dustbin\ png\ -\ Google\ Search.png) ;
+background-color: rgba(204, 208, 251);
+box-shadow: 12px;-webkit-box-shadow: -2px 4px 28px -14px rgba(0,0,0,0.75);
+-moz-box-shadow: -2px 4px 28px -14px rgba(0,0,0,0.75);
+box-shadow: -2px 4px 28px -14px rgba(0,0,0,0.75);
+}
+.tr2{
+    background-color: rgba(204, 208, 251, 0.35);
+}
+table{
+    
+}
+th{
+
+  
+-webkit-box-shadow: 0px 15px 25px -11px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 15px 25px -11px rgba(0,0,0,0.75);
+box-shadow: 0px 15px 25px -11px rgba(0,0,0,0.75);
+}
+    
